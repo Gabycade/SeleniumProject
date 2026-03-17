@@ -4,7 +4,8 @@ Tech Stack & Tools Installed
 
 I have successfully configured the following technologies within this environment:
 
-Selenium (Java)**: Core framework for web browser automation.
+I edited variables to set up Maven separately.
+Selenium (Java): Core framework for web browser automation.
 Maven: Dependency management and project build lifecycle.
 TypeScript: Installed via NPM to support typed scripting.
 Playwright: Configured for modern, fast end-to-end testing.
